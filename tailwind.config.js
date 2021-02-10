@@ -2,7 +2,11 @@ module.exports = {
   purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: (theme) => ({
+        'gavel': "url('/assets/img/backgroundcontacts.jpg')",
+      }),
+    },
   },
   variants: {
     extend: {},
