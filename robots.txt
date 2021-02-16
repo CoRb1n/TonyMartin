@@ -1,4 +1,4 @@
-robots.txt
 User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
+Allow: /
+
+Sitemap: https://www.xml-sitemaps.com/download/www.tonymartinfamilylaw.com.au-52ed342e4/sitemap.xml
