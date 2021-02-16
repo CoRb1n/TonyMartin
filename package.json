@@ -19,5 +19,8 @@
 		"standard": "^16.0.3",
 		"tailwindcss": "^2.0.3",
 		"watch": "^1.0.2"
+	},
+	"devDependencies": {
+		"generate-robotstxt": "^8.0.3"
 	}
 }
